@@ -5,7 +5,7 @@
 replicaCount: 2
 
 image:
-  repository: harbor.prod.viettq.com/demo/my-app
+  repository: tuyendq99/k8s
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "v1"
